@@ -17,7 +17,7 @@ We still haven't cured diseases, but that isn't due to a lack of effort. We've m
 
 But one bottleneck still remains: analyzing the data. We can get robots to automate the synthesis of drugs, experimentation and even microscopy, but not data analysis.
 
-So why don't we use machine learning to do that for us. To use Machine learning to pear into the microscopic world, to aid us to acCELLerate the curing of all diseases!
+So why don't we use stats and ML to do that for us. Using statistics to pear into the microscopic world, to aid us to accellerate the curing of all diseases!
 
 ## What it does
 One major task that scientists undergo is identifying the nuclei within cells. Cells are complicated. They have lots of different types, shapes, stains, and states. Thus we have to find a generalized way of tackling this problem (else the biologist literally has to look at the images themselves).
